@@ -5,3 +5,4 @@ por alguma dificuldade, não pode navegar na internet de forma fácil. Nossa pla
 
 ![equation](Galeria de fotos/front.png)
 
+<img src="Galeria de fotos/front.png" alt="My cool logo"/>
