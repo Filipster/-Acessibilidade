@@ -7,4 +7,4 @@ A presente solução consiste no primeiro sistema com configurações e layout f
 por alguma dificuldade, não pode navegar na internet de forma fácil. 
 Nossa plataforma usa tecnologias derivadas de python, react, java e streamlit predominantemente
 
-![Frontend](front.png)
+![Frontend](Galeria de fotos/front.png)
